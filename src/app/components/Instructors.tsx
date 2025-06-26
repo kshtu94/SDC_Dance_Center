@@ -1,5 +1,4 @@
 'use client'
-import { div } from "motion/react-client";
 import { WavyBackground } from "./ui/wavy-background";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 

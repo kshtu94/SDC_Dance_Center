@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import { div } from "motion/react-client";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 

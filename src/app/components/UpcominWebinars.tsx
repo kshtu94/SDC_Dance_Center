@@ -1,5 +1,4 @@
 'use client'
-import { div } from "motion/react-client";
 import Link from "next/link";
 import { HoverEffect } from "./ui/card-hover-effect";
 
